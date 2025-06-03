@@ -1,0 +1,180 @@
+{
+  "header": {
+    "title": "Cancer Type Prediction",
+    "subtitle": "Advanced ML-powered analysis",
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "feedback": "Feedback",
+    "team": "Our Team"
+  },
+  "home": {
+    "title": "Cancer Type Prediction Tool",
+    "subtitle": "Advanced machine learning for accurate cancer type classification using patient data",
+    "getStarted": "Get Started",
+    "features": {
+      "mlModel": {
+        "title": "Advanced ML Model",
+        "description": "Our model has been trained on extensive medical datasets to accurately classify nine different types of cancer, including breast, colorectal, and lung cancer."
+      },
+      "flexibleInput": {
+        "title": "Flexible Input",
+        "description": "Upload your data in various formats including CSV, XLSX, or JSON. Our system processes the data and provides instant predictions."
+      },
+      "batchProcessing": {
+        "title": "Batch Processing",
+        "description": "Process multiple samples simultaneously with our efficient batch prediction system. Get results for hundreds of samples in seconds."
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "description": "Your data security is our priority. All uploads are processed securely and no patient data is stored after analysis."
+      }
+    },
+    "supportedTypes": {
+      "title": "Supported Cancer Types",
+      "types": {
+        "breast": "Breast Cancer",
+        "colorectal": "Colorectal Cancer",
+        "esophageal": "Esophageal Cancer",
+        "liver": "Liver Cancer",
+        "lung": "Lung Cancer",
+        "ovarian": "Ovarian Cancer",
+        "pancreatic": "Pancreatic Cancer",
+        "stomach": "Stomach Cancer",
+        "normal": "Normal Tissue"
+      }
+    }
+  },
+  "tutorial": {
+    "title": "How to Use This Website",
+    "subtitle": "A comprehensive guide to help you navigate and utilize our prediction platform effectively",
+    "gettingStarted": {
+      "title": "Getting Started",
+      "welcome": "Welcome to our prediction platform! This tutorial will guide you through the process of using our website to make predictions and analyze results.",
+      "begin": "To begin, you'll need to prepare your data in the correct format. We provide a template file that you can download and use as a reference."
+    },
+    "dataPreparation": {
+      "title": "Data Preparation",
+      "downloadTemplate": "Download our template file from the Dashboard page",
+      "fillData": "Fill in your data following the format shown in the template",
+      "requiredFields": "Ensure all required fields are filled out correctly",
+      "saveFormat": "Save your file in .xlsx format"
+    },
+    "uploadProcess": {
+      "title": "Uploading Your Data",
+      "navigate": "Navigate to the Prediction Dashboard",
+      "clickUpload": "Click the \"Upload File\" button",
+      "selectFile": "Select your prepared .xlsx file",
+      "waitProcess": "Wait for the file to be processed"
+    },
+    "resultsInterpretation": {
+      "title": "Understanding Results",
+      "afterUpload": "After uploading your file, you'll see:",
+      "summary": "A summary of your predictions",
+      "detailedResults": "Detailed results in a table format",
+      "visualRepresentations": "Visual representations of the data",
+      "downloadOptions": "Options to download your results"
+    },
+    "tips": {
+      "title": "Tips and Best Practices",
+      "checkData": "Always double-check your input data for accuracy",
+      "followTemplate": "Make sure your file follows the template format exactly",
+      "saveResults": "Save your results for future reference",
+      "useFeedback": "Use the feedback form to report any issues or suggestions"
+    },
+    "support": {
+      "title": "Support",
+      "ifIssues": "If you encounter any issues or have questions:",
+      "checkFAQ": "Contact us at mo7amed.yamani@gmail.com",
+      "useFeedback": "Use the feedback form to report issues",
+      "referAbout": "Refer to the Our Team page for more information about us"
+    }
+  },
+  "dashboard": {
+    "title": "Cancer Type Prediction",
+    "description": "Upload a CSV, XLSX, or JSON file containing patient data to predict cancer types. The model will analyze each row and classify it into one of nine categories.",
+    "template": {
+      "title": "Need a template?",
+      "description": "Download our template file to ensure your data is formatted correctly. Fill in your gene expression values and upload it back for prediction.",
+      "download": "Download Template",
+      "downloadError": "Failed to download template. Please try again."
+    },
+    "fileUpload": {
+      "dragDrop": "Drag and drop your file here, or",
+      "browse": "browse",
+      "supportedTypes": "Supported file types: CSV, XLSX, JSON",
+      "uploadPredict": "Upload and Predict",
+      "uploading": "Uploading...",
+      "processing": "Processing...",
+      "error": "Error uploading file",
+      "unknownError": "An unknown error occurred"
+    }
+  },
+  "results": {
+    "summary": {
+      "title": "Summary",
+      "totalSamples": "Total Samples",
+      "cancerTypes": "Cancer Types",
+      "mostCommon": "Most Common",
+      "avgConfidence": "Avg. Confidence",
+      "distribution": "Distribution"
+    },
+    "table": {
+      "title": "Prediction Results",
+      "exportCsv": "Export CSV",
+      "newUpload": "New Upload",
+      "filterByType": "Filter by Type",
+      "search": "Search",
+      "searchPlaceholder": "Search in results...",
+      "showing": "Showing",
+      "of": "of",
+      "results": "results",
+      "columns": {
+        "class": "Class",
+        "confidence": "Confidence"
+      }
+    }
+  },
+  "feedback": {
+    "title": "Doctor's Feedback",
+    "description": "We value your professional opinion. Please share your experience with our prediction tool.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "specialty": "Medical Specialty",
+      "experience": "Years of Experience",
+      "rating": "Tool Rating",
+      "feedback": "Your Feedback",
+      "submit": "Submit Feedback",
+      "success": "Thank you for your feedback!",
+      "error": "Error submitting feedback. Please try again."
+    }
+  },
+  "team": {
+    "title": "Meet Our Team",
+    "university": "Faculty of Artificial Intelligence at Delta University for Science and Technology",
+    "projectTitle": "AI-Powered Liquid Biopsy for Precision Cancer Classification",
+    "projectDescription": "This cancer prediction tool was developed as part of our 6th semester project. It combines artificial intelligence with liquid biopsy data to support more accurate cancer classification and diagnosis.",
+    "membersTitle": "Our Team",
+    "studentRole": "AI & Bioinformatics Student",
+    "supervisedBy": "Supervisor",
+    "supervisorName": "Prof. Dr / Noha Elattar",
+    "supervisorRole": "Head of the Bioinformatics Department\nDelta University for Science and Technology",
+    "footerNote": "6th Semester Project | 2025",
+    "members": {
+      "ahmed": "Ahmed Elsayed",
+      "basmala": "Basmala Ahmed",
+      "kenzy": "Kenzy Ahmed",
+      "mohamed": "Mohamed Haitham",
+      "sandy": "Sandy Saher",
+      "shahd": "Shahd Abdelghafar"
+    }
+  },
+  "footer": {
+    "copyright": "Cancer Type Prediction Tool"
+  },
+  "disclaimer": {
+    "title": "Important Notice",
+    "message": "This tool is for educational purposes only. We are not responsible for any misuse of this tool. The predictions and information provided should not be used as a substitute for professional medical advice, diagnosis, or treatment.",
+    "close": "Close"
+  }
+}
