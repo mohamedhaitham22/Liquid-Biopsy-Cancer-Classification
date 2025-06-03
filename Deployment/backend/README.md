@@ -154,4 +154,7 @@ This project is licensed under the MIT License.
 - Kenzy Ahmed
 - Sandy Saher 
 - Shahd Abdelghafar 
+
+<div align="center">
 *AI & Bioinformatics students at Delta University for Science and Technology*
+</div>
